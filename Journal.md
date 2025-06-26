@@ -60,4 +60,8 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 
 ![MODEL](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(31).png)
 
-**Total Time of The Day** :- 3 Hours
+**(10PM-12PM)**
+Understanded All Movments included in The 3D Printer And Created Moving Y AXIS and Bed IN Model ,Spent 1 Hour only For Understanding from Articles and Youtube Videos About 3D Printers 
+
+![](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(33).png)
+**Total Time of The Day** :- 5 Hours
