@@ -2,7 +2,7 @@
 
 **26 JUNE 2025 (idea and Research and Development)**
 
-**(6PM-7PM)**
+**(4PM-6PM)**
 
 This is the day when TOYZY1 was just an idea , did many research and decided to create a 3D printer which will be of Cartesian type , and Learned about how to create an its 3D model ,Also decided it will work on Ardiuno Mega And Make the BOM of all parts required tillthe date
 
