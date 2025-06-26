@@ -57,3 +57,5 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 **(6PM-7PM)**
 
 **Created A Basic Structure In Fusion And Started The 3D Modeling Journy**
+
+![MODEL](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(31).png)
