@@ -53,3 +53,7 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 - **Hardware**: M3/M5 Screws, T-nuts, Shims  
 - **Wiring**: 18AWG Silicone Cables, JST Connectors  
 - **Filament**: Drybox with PTFE Tubing  
+
+**(6PM-7PM)**
+
+**Created A Basic Structure In Fusion And Started The 3D Modeling Journy**
