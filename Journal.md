@@ -65,3 +65,11 @@ Understanded All Movments included in The 3D Printer And Created Moving Y AXIS a
 
 ![](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(33).png)
 **Total Time of The Day** :- 5 Hours
+
+
+**27 JUNE 2025 (Restructured The Y axis In the Model and Created Detailed Parts)**
+
+**(12PM-5PM)**
+Today's day was Very Hatic As I learned more About Fusion And Tried to Change and restructre the whole movement and placement of motor and belts and rods i tried to make it as detailed as possible and also added a grip and stand for whole structure , removed the bottom and made more realistic look of bedand motors spent hoursand hours on reading arctilces about fusion softwares ,viewd few toutorials and still need more practice but i happy from todays work ,created every single part and assembled in the structure and now i am feeling it the cute TOYZY is becoming a beast , Only Placements of Xand Z axis Is Left For Whole Mechanical Structure To Complete Then Work ON Circuit And Electronics Part Here Some Images Of Todays work
+![]()
+![]()
