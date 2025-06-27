@@ -56,14 +56,14 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 
 **(6PM-7PM)**
 
-**Created A Basic Structure In Fusion And Started The 3D Modeling Journy**
+**Created A Basic Structure In Fusion And Started The 3D Modeling Journny**
 
-![MODEL](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(31).png)
+![MODEL]([https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(31).png](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(31).png))
 
 **(10PM-12PM)**
 Understanded All Movments included in The 3D Printer And Created Moving Y AXIS and Bed IN Model ,Spent 1 Hour only For Understanding from Articles and Youtube Videos About 3D Printers 
 
-![](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(33).png)
+![YAxis](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(33).png)
 **Total Time of The Day** :- 5 Hours
 
 
