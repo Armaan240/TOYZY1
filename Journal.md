@@ -58,12 +58,12 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 
 **Created A Basic Structure In Fusion And Started The 3D Modeling Journny**
 
-![MODEL]([https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(31).png](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(31).png))
+![MODEL](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(31).png)
 
 **(10PM-12PM)**
 Understanded All Movments included in The 3D Printer And Created Moving Y AXIS and Bed IN Model ,Spent 1 Hour only For Understanding from Articles and Youtube Videos About 3D Printers 
 
-![YAxis](https://github.com/Armaan240/TOYZY1/blob/main/Screenshot%20(33).png)
+![YAxis](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(33).png)
 **Total Time of The Day** :- 5 Hours
 
 
@@ -71,5 +71,5 @@ Understanded All Movments included in The 3D Printer And Created Moving Y AXIS a
 
 **(12PM-5PM)**
 Today's day was Very Hatic As I learned more About Fusion And Tried to Change and restructre the whole movement and placement of motor and belts and rods i tried to make it as detailed as possible and also added a grip and stand for whole structure , removed the bottom and made more realistic look of bedand motors spent hoursand hours on reading arctilces about fusion softwares ,viewd few toutorials and still need more practice but i happy from todays work ,created every single part and assembled in the structure and now i am feeling it the cute TOYZY is becoming a beast , Only Placements of Xand Z axis Is Left For Whole Mechanical Structure To Complete Then Work ON Circuit And Electronics Part Here Some Images Of Todays work
-![]()
-![]()
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/JUNE27.png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(35).png)
