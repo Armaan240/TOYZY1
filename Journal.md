@@ -60,8 +60,8 @@ Here's a **clean Bill of Materials (BOM)** for the TOYZY 3D Printer, organized b
 
 ![MODEL](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(31).png)
 
-**(10PM-12PM)**
-Understanded All Movments included in The 3D Printer And Created Moving Y AXIS and Bed IN Model ,Spent 1 Hour only For Understanding from Articles and Youtube Videos About 3D Printers 
+**(10PM-12AM)**
+Understanded All Movments included in The 3D Printer And Created Moving Y AXIS and Bed IN Model ,Spent 1 Hour only For Understanding from Articles and Youtube Videos About 3D Printers And Created A simple Structure for Reference and Would UpGrade it in Future 
 
 ![YAxis](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(33).png)
 **Total Time of The Day** :- 5 Hours
@@ -69,7 +69,38 @@ Understanded All Movments included in The 3D Printer And Created Moving Y AXIS a
 
 **27 JUNE 2025 (Restructured The Y axis In the Model and Created Detailed Parts)**
 
-**(12PM-5PM)**
-Today's day was Very Hatic As I learned more About Fusion And Tried to Change and restructre the whole movement and placement of motor and belts and rods i tried to make it as detailed as possible and also added a grip and stand for whole structure , removed the bottom and made more realistic look of bedand motors spent hoursand hours on reading arctilces about fusion softwares ,viewd few toutorials and still need more practice but i happy from todays work ,created every single part and assembled in the structure and now i am feeling it the cute TOYZY is becoming a beast , Only Placements of Xand Z axis Is Left For Whole Mechanical Structure To Complete Then Work ON Circuit And Electronics Part Here Some Images Of Todays work
+**(12PM-3PM)**
+Today's day was Very Hatic As I learned more About Fusion Because Yesterdays work was more focused on Understanding things and Forgot the cricial Part THe Project (PERFECTION) And Tried to Change and restructre the whole movement and placement of motor and belts and rods i tried to make it as detailed as possible and also added a grip and stand for whole structure , removed the bottom and made more realistic look of Step motors spent hours and hours on reading arctilces about fusion softwares ,viewd few toutorials and still need more practice but i happy from todays work ,created every single part and assembled in the structure and now i am feeling it the cute TOYZY is becoming a beast , Only Placements of Xand Z axis Is Left For Whole Mechanical Structure To Complete Then Work ON Circuit And Electronics Part ,Here Some Images Of Todays work
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/JUNE27.png)
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(35).png)
+
+**Total Time of The Day** :- 3 Hours
+
+**28 JUNE 2025 (Built The Z axis from Scratch)**
+ 
+**(10AM-12PM)**
+
+A This was My first time building a complex project so i wanted it to give my 100% to make it good look and perfect in the practical life also so studied about how i can make stable and good Z axis which could hold the weight of Two motors , so i deicded to biuld it with 20x20 in model too so that it would also add a realistic feel to the model attached lead screws to step motors but with dual smooth rods that could provide smoothness in working and also a good foundation as well as control to the X Axis ...Here are some pis of what i built so far
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(47).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(45).png)
+
+**Total Time of The Day** :- 2 Hours
+**29 JUNE 2025 (Built The X axis from Scratch,Added Hot End And Extruder,Worked On Small Details)**
+
+**(9AM-10:30AM)**
+As last two days were not productive as i planned due to fever but today i was working only for mission to complete the important parts , first created the mounts for X axis and smooth rods also it could hold the motors so after many rejection of design finally created Perfectmount which could all required things , then created the cap of rods and srew this would provide more stablity to the Whole structure also ,Heres the pic of the mount and Cap attached 
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(48).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/cap.png)
+
+**(4PM-8PM)**
+The X Axis Mount for Extruder and HotEnd was Left so i created it first and Tried to Make The Main Printing Part From Scratch And the Main challenge i faced was Design ofthe Hot end So by some creativity and Lots of HardWork Finally Buit See what i have made (SORRY FOR BLURED PHOTO AS IT WAS TAKEN FROM PHONE INSTEAD OF A SCREENSHOT)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/IMG_1863.jpeg)
+
+Next i added some more details like the belt which would move The X Axis and The Attached Timing Pully At Step motors ,the belt part was really time consuming
+also after suggestion from one of my friend i Change the Colour Od the Logo and And Whole Model To Red And Black
+**So Here Are the Images of all Mechanical Part ,Next We Will Move to Electronic (controllers,Touch Screen,Hot Bed etc)**
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(52).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(50).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(49).png)
+
+**Total Time of The Day** :- 5 Hours 30 Minutes
