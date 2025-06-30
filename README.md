@@ -19,24 +19,31 @@ I didn’t expect to actually start this so soon — but once I began designing 
 
 ## 📦 TOYZY BOM
 
-| Category                           | Part                                       | Qty | Unit Price                | Ship & Import | Total       |
-| ---------------------------------- | ------------------------------------------ | --- | ------------------------- | ------------- | ----------- |
-| **Controller Kit**                 | Mega2560 + RAMPS 1.4 + 5×A4988 + 12864 LCD | 1   | \$20.60                   | \$10          | **\$30.60** |
-| **Stepper Motors**                 | NEMA 17 (for X, X, Y, Z, Z)                | 5   | \$10.00                   | \$25          | **\$75.00** |
-| **Smooth Rods 8 mm × 400 mm**      | For Y and Z                                | 4   | \$6.00                    | \$8           | **\$32.00** |
-| **T8 Lead Screws (8 mm × 400 mm)** | Z-axis lift                                | 2   | \$8.00                    | \$5           | **\$21.00** |
-| **GT2 Timing Belt (2 m)**          | X & Y axes                                 | –   | \$3.00                    | \$3           | **\$6.00**  |
-| **GT2 Pulleys (20T)**              | Belt drive                                 | 4   | \$1.00                    | \$2           | **\$6.00**  |
-| **LM8UU Bearings**                 | For smooth rods                            | 10  | \$0.50                    | \$3           | **\$8.00**  |
-| **Heated Bed 214 × 214 mm**        | MK2B type                                  | 1   | \$14.00                   | \$6           | **\$20.00** |
-| **E3D V6 Hotend**                  | All‑metal (direct drive)                   | 1   | \$54.80                   | \$5           | **\$59.80** |
-| **Heater Cartridge (40 W)**        | Hotend heating                             | 1   | \$4.00                    | \$1           | **\$5.00**  |
-| **Thermistors (100 K)**            | For hotend & bed                           | 2   | \$2.00                    | \$1           | **\$5.00**  |
-| **Cooling Fans (4010 + 5015)**     | Hotend + part cooling                      | 3   | \$3.00                    | \$3           | **\$12.00** |
-| **Mechanical Endstops**            | X, Y, Z                                    | 3   | \$0.50                    | \$2           | **\$3.50**  |
-| **Wiring Accessories**             | Wires, connectors, heatshrink, etc.        | —   | —                         | —             | **\$15.00** |
-| **3D-Printed Parts**               | Frame joints, motor mounts, etc.           | —   | —                         | —             | **\$30.00** |
-| **Power Supply (12 V 20 A)**       | SMPS unit                                  | 1   | \$25.00                   | \$5           | **\$30.00** |
-
-
-### ✅ **Grand Total: ≈ \$326 USD**
+| Category                      | Part                                                  | Qty | Unit Price | Shipping | Total       | Link                                                                |
+| ----------------------------- | ----------------------------------------------------- | --- | ---------- | -------- | ----------- | ------------------------------------------------------------------- |
+| **Controller Kit**            | Mega2560 + RAMPS 1.4 + TMC2209 Drivers + 12864 LCD    | 1   | \$24.00    | \$11      | **\$35.00** | [Buy LInk](https://www.alibaba.com/product-detail/SeekEC-CNC-3D-Printer-Kit-with_1600800203589.html?spm=a2700.galleryofferlist.normal_offer.d_title.2e5d13a0pZEiPm) |
+| **Stepper Motors**            | NEMA17 Stepper Motors (1.68A, 42mm)                   | 6   | \$3.00     | \$26    | **\$42.00** | [Buy LInk](https://www.alibaba.com/product-detail/SUMTOR-NEMA-17-Stpper-Motor-42HS4013A4CE_62423940277.html?spm=a2700.details.you_may_like.1.78975071uLiSXz)   |
+| **Smooth Rods (8mm × 400mm)** | Chrome-polished precision rods                        | 4   | \$5.50     | \$8      | **\$30.00** | Sourced Locally |
+| **Nuts and Bolts** | 2-5mm nut and bolts                      | 50   | -    | \$8      | $5 | Sourced Locally |
+| **T8 Lead Screws (400mm)**    | With brass nut                                        | 2   | \$3.00     | \$4      | **\$7.00** | [Buy LInk](https://robu.in/product/400mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-copper-nut/) |
+| **GT2 Timing Belt (5m)**      | 6mm width, reinforced                                 | 1   | \$2.00     | \$2      | **\$4.00**  | [Buy LInk](https://www.amazon.in/Robodo-Electronics-PR60-Timing-Printer/dp/B07881N24Q/ref=pd_lpo_d_sccl_1/260-1406153-5055739?pd_rd_w=kLomu&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=9J2S7Y3Y0BJTNWSVJ5R4&pd_rd_wg=pJWLU&pd_rd_r=c4c8056b-44a0-4ad3-ac54-c72ab070c158&pd_rd_i=B07881N24Q&psc=1) |
+| **GT2 Pulleys (20T)**         | 5mm bore + screws (4 pcs)                             | 4   | \$1.20     | \$2      | **\$6.80**  | [Buy LInk](https://www.flipkart.com/serplex-gt2-pulley-20-teeth-5mm-bore-6mm-width-20t-timing-belt-wheel-aluminum-fitting-connector/p/itm7c58dc564cab2?pid=TDIH2FU4YKUJ8EDH&lid=LSTTDIH2FU4YKUJ8EDHBMAUTT&marketplace=FLIPKART&cmpid=content_three-d-printer-accessories_8965229628_gmc) |
+| **LM8UU Bearings**            | Polymer-coated, low noise                             | 10  | \$1     | \$3      | **\$13.00** | [Buy LInk](https://onlineshop.goldenbearingcompany.com/product/lm8uu-8-mm-linear-motion-bearing/?srsltid=AfmBOopL2a7UoDKKg_wbQwxKIWUuEnq-lPPzE1W3I5xxOSaSDe6bE0YX) |
+| **Heated Bed MK2B**           | 214×214mm + wiring                                    | 1   | \$14.00    | \$10      | **\$24.00** | [Buy LInk](https://www.alibaba.com/product-detail/235x235mm-200W-24V-Silicone-Heated-Bed_1600133444717.html?spm=a2700.galleryofferlist.normal_offer.d_title.3af113a01s24GU) |
+| **E3D V6 Hotend clone **     | All-metal, Volcano-ready                              | 1   | \$18.00    | \$-      | **\$10.00** | [Buy LInk](https://www.amazon.in/Robodo-Electronics-PR46-J-Head-Extruder/dp/B0787KN8BC) |
+| **E3D Extruder **     | All-metal, Volcano-ready                              | 1   | \$35.00    |  —     | **\$35.00** | [Buy LInk](https://robu.in/product/e3d-titan-extruder-direct-drive-1-75mm/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWf3c0f90Vj42PDMoCQ2ah0Z5&gclid=Cj0KCQjw64jDBhDXARIsABkk8J5PemK91RqrIu1bteplkHbeO1IMpQpk6aNlHuobJ0plAKiYbrV38TEaAh8bEALw_wcB) |
+| **Heater Cartridge (40W)**    | 12V, ceramic                                          | 1   | \$10.00     | \$1      | **\$11.00**  | [Buy LInk](https://robu.in/product/original-prusa-hotend-heater-cartridge-e3d-24v-40w-mini/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWf3c0f90Vj42PDMoCQ2ah0Z5&gclid=Cj0KCQjw64jDBhDXARIsABkk8J6UiFKhN4J44pee42mYhR8kFP99nFmTabaENmFLMH_NnWUAFyBuvmYaAv-1EALw_wcB)    |
+| **Thermistors (100K)**        | —                                          | 2  | \$1     | \$1      | **\$3**  | [Buy LInk](https://robu.in/product/original-prusa-hotend-heater-cartridge-e3d-24v-40w-mini/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWf3c0f90Vj42PDMoCQ2ah0Z5&gclid=Cj0KCQjw64jDBhDXARIsABkk8J6UiFKhN4J44pee42mYhR8kFP99nFmTabaENmFLMH_NnWUAFyBuvmYaAv-1EALw_wcB) |
+| **4010 Fans**          | 3 pcs for hotend and part cooling                     | 3   | \$2.00     | \$2      | **\$8.00**  | [Buy LInk](https://www.amazon.in/12V-4010-Cooling-Fan-Printer/dp/B09PBW1WCC?th=1) |
+| **Mechanical Endstops**       | Pre-wired, pack of 3                                  | 3   | \$0.60     | \$2      | **\$3.80**  | [Buy LInk](https://robu.in/product/cnc-3d-printer-mech-endstop-switch/) |
+| **Power Supply (12V 20A)**    | Enclosed SMPS unit                                    | 1   | \$9.00    | \$2    | **\$11.00** | [Buy LInk](https://ebhoot.in/shop-2/power-supply/smps/12v-20a-240watt-smps-dc-metal-power-supply-with-cooling-fan/?srsltid=AfmBOoq04yXPv75jBKuhN5sjb6Wn0EWkAjI5LJw3URiWQbs1_voczo8OKbE) |
+| **Wiring & Connectors**       | Heatshrink, Dupont, JST, silicone wire                | —   | —          | —        | **\$12.00** |Sourced Locally                                                                   |
+| **3D-Printed Parts**          | Printed from JLC3DP/3Ding (corners, carriage, mounts) | —   | —          | —        | **\$40.00** | —                                                       | CapMountForZaxis      |                     —                                 | 2  |  — | —      | —   | |
+| STepMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
+| BedMount       | "                                       | 2  |  —    |  —      |  —  |  — |
+| Customized Toyzy EXtruder CAse       | "                                       | 1  |  —    |  —      |  —  |  — |
+| smoothrod mount       | "                                       | 4  |  —    |  —      |  —  |  — |
+| STepMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
+| pullyMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
+| Stands       | "                                       | 2  |  —    |  —      |  —  |  — |
+### ✅ **Grand Total: ≈ \$310 USD**
