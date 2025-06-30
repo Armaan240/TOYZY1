@@ -39,4 +39,4 @@ I didn’t expect to actually start this so soon — but once I began designing 
 | **Power Supply (12 V 20 A)**       | SMPS unit                                  | 1   | \$25.00                   | \$5           | **\$30.00** |
 
 
-### ✅ **Grand Total: ≈ \$325.90 USD**
+### ✅ **Grand Total: ≈ \$326 USD**
