@@ -4,10 +4,10 @@ TOYZY is not just a 3D printer. Its the thing dream of building from the ground 
 The frame is made of aluminum extrusions connected by joints internally so that dont look ugly I modeled and plan to 3D print myself. Inside it runs on an Arduino Mega and RAMPS board with a touchscreen display, (NFC potential and Wi-Fi modules coming soon). It’ll feature a dual Z-motor system for extra stability and acreated compact custom-designed extruder I call it the TOYZY head with three fans, sleek aesthetics, and serious performance. I designed every inch of the printer in Fusion 360 from the frame down to the cable mounts. 
 **Also Please Ignore the missing part in The third Image It may Due to a Techincal Glitch**
 
-![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(57).png)
-![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(58).png)
-![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(59).png)
-![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(60).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(62).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(63).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(64).png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot.png)
 ## Why I Created It
 I have always been thinking of a machines that create — CNCs, plotters, robots, 3D printers. But 3D printing stuck with me. I’ve seen people buy off-the-shelf machines and never really learn how they work. I did not wanted that. I wanted to build the machine not to just use it. so that come across the experience many people do lag behind
 
