@@ -16,7 +16,7 @@ Fans (4010),Hotend and part cooling,3,2,2,8,"https://www.amazon.in/12V-4010-Cool
 Mechanical Endstops,Pre-wired pack of 3,3,0.6,2,3.8,"https://robu.in/product/cnc-3d-printer-mech-endstop-switch/"
 Power Supply (12V 20A),Enclosed SMPS unit,1,9,2,11,"https://ebhoot.in/shop-2/power-supply/smps/12v-20a-240watt-smps-dc-metal-power-supply-with-cooling-fan/"
 Wiring & Connectors,(Heatshrink Dupont JST silicone wire),-,-,-,12,Sourced Locally
-3D-Printed Parts,JLC3DP/3Ding custom parts,-,-,-,40,-
+3D-Printed Parts,JLC3DP/3Ding custom parts,-,-,-,10,-
 3D Print: CapMountForZaxis,Custom model,2,-,-,-,-
 3D Print: StepMotorMountZaxis,Custom model,2,-,-,-,-
 3D Print: BedMount,Custom model,2,-,-,-,-
@@ -24,4 +24,4 @@ Wiring & Connectors,(Heatshrink Dupont JST silicone wire),-,-,-,12,Sourced Local
 3D Print: Smooth Rod Mount,Custom model,4,-,-,-,-
 3D Print: Pulley Motor Mount Z,Custom model,2,-,-,-,-
 3D Print: Stands,Custom model,2,-,-,-,-
-Grand Total,,,,,,~$310
+Grand Total,,,,,,~$280-$290
