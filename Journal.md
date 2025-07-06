@@ -102,7 +102,8 @@ Today did a small work but most importent (getting reviews) i took reviews from 
 Today i got a reply from the the reviewer on 7:22am IST ,that he need a F3d file of the whole model ,first iwas confused because it was already uploaded in the some BigGuys Zip file but got to know it was not in the correct format so i went up to the fusion and open my filed i got know the changes i made yesterday were not saved , so i quickly speedrun the changes and fixed the issuses and akso added belt tension makers at botom of the bed and behind the tool head ,these are for reprstation and may need to change as i will make it manually with Plastic.
 
 ### **(5PM-7PM)**
-Added Extruder And editted the Toolhead With Extruder Created A REnder Model for more realtsictness and polished some points on WHole Thing
+Added Extruder And editted the Toolhead With Extruder Created A REnder Model for more realtsictness and polished some points on Whole Thing ,The Quality of The Rendered Image is Not Top Notch,but the hardwork and dedication towards My 3D printer was At my atmost Potential. 
+
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(128).png)
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(133).png)
 
