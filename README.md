@@ -48,3 +48,5 @@ I didn’t expect to actually start this so soon — but once I began designing 
 | pullyMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
 | Stands       | "                                       | 2  |  —    |  —      |  —  |  — |
 ### ✅ **Grand Total: ≈ \280-290USD**
+
+**For F3d File And other Parts PLease Check 3d Moldels Folder**
