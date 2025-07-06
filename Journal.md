@@ -6,8 +6,8 @@
 | Slack Id | U091M21518T (@AMU)|
 | Description | TOYZY is a Modern Looking cartesien type 3D printer a can build what ever You Want INRL |
 | Created  | 2025-06-26 |
-| Last Updated  | 2025-06-30 |
-| Total Time Till date| 20 Hours|
+| Last Updated  | 2025-07-06 |
+| Total Time Till date| 22 Hours|
 ## **26 JUNE 2025 (Idea and Research and Development)**
 
 ### **(4PM-6PM)**
@@ -88,3 +88,16 @@ And now just Ceating it INRL is Left to actually create things in real
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(58).png)
 
 **Total Time of The Day** :- 5 Hours
+
+## ** 5th July 2025 **
+
+### **(4PM-6PM)**
+Today did a small work but most importent (getting reviews) i took reviews from the Discord server about my 3d printer the reviews were mixed type but main highlited ones for the design which is good and the customized toolhead of the printer but some of them were asking me to remove an smooth rodon z axis but also advised me to keep the extra rod,so that i can remove it as per my requirement when will be building the printer so i can understand which rod to be removed.
+
+**Total Time of The Day** :- 2 hour
+
+## ** 6th July 2025 **
+
+### **(8PM-9AM)**
+Today i got a reply from the the reviewer on 7:22am IST ,that he need a F3d file of the whole model ,first iwas confused because it was already uploaded in the some BigGuys Zip file but got to know it was not in the correct format so i went up to the fusion and open my filed i got know the changes i made yesterday were not saved , so i quickly speedrun the changes and fixed the issuses and akso added belt tension makers at botom of the bed and behind the tool head ,these are for reprstation and may need to change as i will make it manually with Plastic.
+**Total Time of The Day** :- 1 hour
