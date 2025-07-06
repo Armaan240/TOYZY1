@@ -7,7 +7,7 @@ The frame is made of aluminum extrusions connected by joints internally so that 
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(133).png)
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(63).png)
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(64).png)
-![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot.png)
+![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(132).png)
 ## Why I Created It
 I have always been thinking of a machines that create — CNCs, plotters, robots, 3D printers. But 3D printing stuck with me. I’ve seen people buy off-the-shelf machines and never really learn how they work. I did not wanted that. I wanted to build the machine not to just use it. so that come across the experience many people do lag behind
 
