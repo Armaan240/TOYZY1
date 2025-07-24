@@ -39,7 +39,7 @@ I didn’t expect to actually start this so soon — but once I began designing 
 | **Mechanical Endstops**       | Pre-wired, pack of 3                                  | 3   | \$0.60     | \$2      | **\$3.80**  | [Buy LInk](https://robu.in/product/cnc-3d-printer-mech-endstop-switch/) |
 | **Power Supply (12V 20A)**    | Enclosed SMPS unit                                    | 1   | \$9.00    | \$2    | **\$11.00** | [Buy LInk](https://ebhoot.in/shop-2/power-supply/smps/12v-20a-240watt-smps-dc-metal-power-supply-with-cooling-fan/?srsltid=AfmBOoq04yXPv75jBKuhN5sjb6Wn0EWkAjI5LJw3URiWQbs1_voczo8OKbE) |
 | **Wiring & Connectors**       | Heatshrink, Dupont, JST, silicone wire                | —   | —          | —        | **\$12.00** |Sourced Locally                                                                   |
-| **3D-Printed Parts**          | Printed from Robu.in and Printing legion (corners, carriage, mounts) | —   | —          | —        | **\$10.00** | —                                                       | CapMountForZaxis      |                     —                                 | 2  |  — | —      | —   | |
+| **3D-Printed Parts And Filament**          | Printed Locally (corners, carriage, mounts) | —   | —          | —        | **\$15.00** | https://amzn.in/d/5VhkDte      |                     —                                 | 2  |  — | —      | —   | |
 | STepMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
 | BedMount       | "                                       | 2  |  —    |  —      |  —  |  — |
 | Customized Toyzy EXtruder CAse       | "                                       | 1  |  —    |  —      |  —  |  — |
