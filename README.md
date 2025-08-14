@@ -46,7 +46,10 @@ I didn’t expect to actually start this so soon — but once I began designing 
 | smoothrod mount       | "                                       | 4  |  —    |  —      |  —  |  — |
 | STepMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
 | pullyMotorMountZaxis       | "                                       | 2  |  —    |  —      |  —  |  — |
-| Stands       | "                                       | 2  |  —    |  —      |  —  |  — |
+| Stands       | "                                       | 4  |  —    |  —      |  —  |  — |
+| BED      | "                                       | 1 |  —    |  —      |  —  |  — |
+| TopCover And Logo      | "                                       |  |  —    |  —      |  —  |  — |
+
 ### ✅ **Grand Total: ≈ \280-290USD**
 
 **For F3d File And other Parts PLease Check 3d Moldels Folder**
