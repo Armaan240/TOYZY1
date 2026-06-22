@@ -5,7 +5,7 @@ The frame is made of aluminum extrusions connected by joints internally so that 
 **Also Please Ignore the missing part in The third Image It may Due to a Techincal Glitch And the Aluminium Extrunction going inside the Stands actually Stands will be engraved and modfied as per requirement**
 ## CURRENT STATE OF THE PRINTER (will be finished soon !! ) 
 <img width="4284" height="5712" alt="img_4501" src="https://github.com/user-attachments/assets/20c0b0ac-6a7f-4141-bbef-724d3dd787f0" />
-### CAD 
+## CAD 
 
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(133).png)
 ![](https://github.com/Armaan240/TOYZY1/blob/main/IMAGES/Screenshot%20(63).png)
